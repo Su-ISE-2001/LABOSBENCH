@@ -29,7 +29,7 @@
       "zhwang@dlut.edu.cn"
     ],
     "arxiv": "",
-    "github": "https://github.com/Su-ISE-2001/LabOSBench",
+    "github": "https://github.com/Su-ISE-2001/LABOSBENCH",
     "paper_pdf": "papers/labosbench.pdf",
     "abstract": "LabOSBench is a lightweight, executable benchmark built on web-based scientific instrument simulators, covering 8 instrument types and 96 subtasks with both subtask-level and end-to-end evaluation. Results show that current agents can complete many structured GUI subtasks, but still struggle with feedback-driven control and long-horizon workflow execution."
   },
